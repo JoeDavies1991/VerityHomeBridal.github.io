@@ -1,0 +1,144 @@
+.paragraph-text {
+    color: #000000;
+    text-align: center;
+    left: 300px;
+    top: 150px;
+}
+
+/* Section styles */
+
+div.style-picture {
+    color: white;
+    padding: 200px;
+    background-size: cover;
+    background: url(header-bg1.jpg) no-repeat;
+    background-size: cover;
+
+}
+
+div.blog {
+    position: fixed;
+    left: 5px;
+    top: 150px;
+    line-height: 20px;
+    height: 800px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+}
+
+p.text-style {
+    color: #000000;
+    left: 5px;
+    top: 150px;
+}
+
+}
+
+.nav.blog {
+    line-height: 30px;
+    background-color: #eeeeee;
+    height: 300px;
+    width: 100px;
+    float: left;
+    padding: 5px;
+}
+
+.section-size {
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+.heading-text {
+    padding-top: 100px;
+    text-align: center;;
+}
+
+p.intro-text-style {
+
+    background-color: #ffffff;
+    opacity: 0.5;
+    color: #000000;
+    padding: 10px
+    left: 50px;
+    top: 150px;
+}
+
+div.intro-text-position {
+
+    left: 50px;
+    top: 150px;
+}
+
+}
+
+div.style-blue {
+    background-color: #00ccff;
+    color: #000000;
+    padding: 20px;
+}
+
+div.style-green {
+    background-color: #33cc33;
+    color: #000000;
+    padding: 20px;
+}
+
+body.image {
+    background-image: url("edinburgh_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 400px;
+    background-attachment: fixed;
+}
+
+/* Navigation Bar Styling */
+
+}
+}
+
+}
+/* Navigation list styling*/
+ul {
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
+    width: 290px;
+    color: #000000
+    text-transform: uppercase;
+    background-color: #4d79ff;
+}
+
+li {
+    display: inline;
+    float: left;
+
+}
+
+a {
+    display: block;
+
+}
+
+}
+/* Navigation Bar Styling */
+
+/*   image resizing */
+
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+
+img {
+    width: 50%;
+    height: auto;
+}
