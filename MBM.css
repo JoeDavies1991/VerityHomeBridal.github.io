@@ -142,3 +142,10 @@ img {
     width: 50%;
     height: auto;
 }
+
+
+
+.input-group[class*="col-"] {
+    padding-right: 15px;
+    padding-left: 15px;
+    }
