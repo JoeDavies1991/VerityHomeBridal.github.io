@@ -1,0 +1,79 @@
+.no-gutter {
+    padding: 0;
+}
+
+/*
+Restricting carousel height*/
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+/*centre image in heading.*/
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+
+/*   image resizing */
+
+.imgflexible {
+    max-width: 100%;
+    height: auto;
+    width: auto \9; /* ie8 */
+}
+
+.container {
+    width: 100px;
+    height: 60px;
+}
+
+/* resize images*/
+.container img {
+    width: 50%;
+    height: auto;
+}
+
+.img {
+    width: 500%;
+    height: auto;
+}
+
+.input-group[class*="col-"] {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* start, google maps and contact form styles*/
+
+.map {
+    min-width: 300px;
+    min-height: 300px;
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    background-color: #F5F5F5;
+    color: #36A0FF;
+    height: 70px;
+    font-size: 27px;
+    padding: 10px;
+}
+
